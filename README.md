@@ -13,7 +13,7 @@
 
 **Telegram:** @Oleg7160
 
-**Дашборд:** [Открыть в DataLens](https://datalens.ru/cdnidzlp4djmv-dashboard-1-dota2?_share_link=org)
+**Дашборд:** [Открыть в DataLens]([https://datalens.ru/cdnidzlp4djmv-dashboard-1-dota2?_share_link=org](https://datalens.yandex/cdnidzlp4djmv?_share_link=public))
 
 ---
 
