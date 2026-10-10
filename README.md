@@ -13,7 +13,7 @@
 
 **Telegram:** @Oleg7160
 
-**Дашборд:** [Открыть в DataLens]([https://datalens.ru/cdnidzlp4djmv-dashboard-1-dota2?_share_link=org](https://datalens.yandex/cdnidzlp4djmv?_share_link=public))
+**Дашборд:** [Открыть в DataLens](https://datalens.yandex/cdnidzlp4djmv?_share_link=public)
 
 ---
 
@@ -97,6 +97,6 @@
 - Совмещённый график: длительность игр + количество игроков
 - Сводная таблица средних характеристик персонажей у победителей и проигравших
 
-[Открыть дашборд](https://datalens.ru/cdnidzlp4djmv-dashboard-1-dota2?_share_link=org)
+[Открыть дашборд](https://datalens.yandex/cdnidzlp4djmv?_share_link=public)
 
 ---
